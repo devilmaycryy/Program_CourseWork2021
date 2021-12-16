@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(424,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(424,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(428,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(428,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(432,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(432,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(434,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(434,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(652,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(652,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(656,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(656,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(660,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(660,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(662,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(662,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(713,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(713,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(717,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(717,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(721,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(721,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(723,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(723,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(870,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\C++\Princess and Monster\Source.cpp(877,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Princess and Monster.vcxproj -> C:\Users\Acer\Desktop\C++\Princess and Monster\Debug\Princess and Monster.exe
